@@ -1,0 +1,17 @@
+11003      Steak 80
+11004
+ Tuna_Steak 250
+11005
+
+
+ Fish 75
+11006 Shrimp 350
+11007 Rice 30
+11008 Spaghetti 40
+11009 Pizza 450
+11010 Hamburger 550
+11011 Eggs 40
+11012 Cheese 150
+11013 Sausages 50
+11014 Apple_Juice 60
+11015 Grape_Juice 70
