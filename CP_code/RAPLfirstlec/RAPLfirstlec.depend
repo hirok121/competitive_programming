@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1672892688 source:f:\programming code block\raplfirstlec\main.c
+	<stdio.h>
+	<stdlib.h>
+
